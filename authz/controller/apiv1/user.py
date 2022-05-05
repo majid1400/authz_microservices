@@ -1,3 +1,4 @@
+from authz.model import User
 from authz.util.jsonify import jsonify
 
 
